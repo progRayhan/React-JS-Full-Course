@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cadetblue;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items > li {
+    padding: 10px;
+    color: white;
+}
+
+.nav-logo{
+    width: 60px;
+}
